@@ -21,6 +21,8 @@ function App() {
       <Navbar data={{ count, setCount }} />
       <Header />
 
+      {/* giving the details of all the cards and using useState to perform the function */}
+
       {/* <!-- Section--> */}
       <section className="py-5">
         <div className="container px-4 px-lg-5 mt-5">
